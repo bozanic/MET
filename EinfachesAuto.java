@@ -3,8 +3,8 @@ import java.util.Calendar;
 /**
  * Klasse zum Erzeugen von Auto Objekten.
  * 
- * @author Sandra Kaltofen
- * @version 1.02, 07/2012
+ * @author Borislav Bozanic
+ * @version 0.01, 10/2013
  */
 
 public class EinfachesAuto {
